@@ -1,0 +1,26 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+footer{
+  /* position: absolute; */
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
+.copyright{
+  text-align: center;
+}
+
+.badge{
+  color: #198754;;
+}
+.admin{
+  color: red;
+}

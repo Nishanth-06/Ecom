@@ -1,5 +1,5 @@
 import {API} from "../../backend";
-//API is ; http://localhost:8000/api/
+
 
 export const signup = user =>{
     return fetch(`${API}/signup`,{
